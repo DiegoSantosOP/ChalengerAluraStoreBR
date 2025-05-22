@@ -1,15 +1,5 @@
 # 📦 ChalengerAluraStoreBR
 
-## 📑 Índice
-
-- [📄 Descrição](#descrição)  
-- [📊 Objetivo](#objetivo)  
-- [🧰 Tecnologias Utilizadas](#tecnologias-utilizadas)  
-- [📁 Dados utilizados no projeto](#dados-utilizados-no-projeto)  
-- [🚀 Como Executar o Projeto](#como-executar-o-projeto)  
-- [🎯 Demonstração](#demonstração)  
-- [👤 Autor](#autor)  
-
 ---
 
 ## 📄 Descrição
